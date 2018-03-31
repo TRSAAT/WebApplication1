@@ -9,7 +9,7 @@ package com.atul.test;
  *
  * @author ATUL
  */
-// POJO
+// POJO class
 public class Calculator {
     private static int number_1;
     private static int number_2;
